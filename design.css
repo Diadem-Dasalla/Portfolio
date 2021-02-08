@@ -1,0 +1,101 @@
+ul{
+	list-style-type: none;
+	margin-top:3px;
+    margin-right:0%;
+    margin-left: 0%;
+    padding: 4px;
+    overflow: hidden;
+    background-color: #b3b3b3;
+
+}
+li{
+	list-style: none;
+	float:left;
+	font-size: 18px;
+}
+li a{
+	display: block;
+    color: black;
+    font-family: times new roman;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+body{
+	background-image: url("port3.jpg");
+	
+}
+
+h2{
+	text-align: center;
+}
+p{
+	font-family: georgia;
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	
+	margin-right: 20%;
+	line-height: 40px;
+}
+.button{
+	background-color: #4CAF50;
+	float: right;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.works-image{
+	margin-left: 25%;
+	width: 40%;
+	border: 10px solid white;
+}
+.works-title{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 20px;
+	margin-left: 10%;
+
+	
+}
+.survey-image{
+	margin-left: 25%;
+	width: 40%;
+	border: 10px solid white;
+	
+}
+.survey-title{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 20px;
+	margin-left: 10%;
+}
+.product-image{
+	margin-left: 25%;
+	width: 40%;
+	border: 10px solid white;
+}
+.product-title{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 20px;
+	margin-left: 10%;
+}
